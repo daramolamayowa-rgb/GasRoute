@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 st.title("GasRoute")
-st.subheader("Intelligent route ranking, commercial structuring, and boardroom decision support.")
+st.subheader("Intelligent gas flaring commercialization, route ranking, and boardroom decision support.")
 st.markdown("---")
 
 # --- DATA STORAGE ENGINE ---
